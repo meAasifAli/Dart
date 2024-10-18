@@ -4,6 +4,11 @@ Dart is an open-source general-purpose programming language developed by Google.
 
 Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It is a dynamic object-oriented language with closure and lexical scope. The Dart language was released in 2011 but came into popularity after 2015 with Dart 2.0.
 
+
+<div>
+<img src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png?2"/>
+</div>
+
 # Why Use Dart?
 
  - Fast & Smooth: Dart compiles to native code for speedy performance, ideal for mobile apps.
